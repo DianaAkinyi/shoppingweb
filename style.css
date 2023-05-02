@@ -104,3 +104,60 @@ width: 8%;
     color:black;
     
 }
+@media screen and (max-width:300px) {
+    .body{
+        background-color: whitesmoke;
+        background:fixed ;
+
+}
+
+.navbar a{
+    margin-left: 10%;
+    padding: 2%;
+}
+.dispa img{
+width: 300%;
+}
+.girl img{
+    width: 300%;;
+}
+.images{
+     flex-direction: column;
+    margin-left: 2%;
+    gap: 1%;
+}
+ .images img{
+  
+   width: 192%;
+   
+} 
+.displays{flex-direction: column;
+}
+
+}
+@media screen and (max-width:206px) {
+    #p{
+        color:  rgb(12, 11, 11);
+        font-size: 74px;
+        margin-left:42%;
+        margin-top: 8%;
+        }
+        .container{
+           flex-direction: column;
+            
+            
+}
+
+}
+@media screen and (max-width:1930px) {
+    .container{
+        /* display: flex; */
+        background-color: rgb(107, 67, 172);
+        width: 12%;
+        gap: 112%;
+    
+        
+}
+#p{
+    color:  rgb(12, 11, 11);}
+}
