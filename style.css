@@ -1,0 +1,106 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.body{
+    background-color: whitesmoke;
+}
+.navbar{
+    margin-left: 16%;
+    margin-bottom: 5%;
+    margin-top: 5%;  
+}
+.navbar a{
+    margin-left: 5%;
+    padding: 2%;
+    color: black;
+    text-decoration: none;
+    
+    
+}
+.container{
+    display: flex;
+    background-color: rgb(107, 67, 172);
+    
+}
+#p{
+color:  white;
+font-size: 44px;
+margin-left:12%;
+margin-top: 8%;
+}
+#p button{
+    background-color: palevioletred;
+    color: white;
+    padding: 4%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border: none;  
+}
+h3{
+    text-align: center;
+    font-style: bold;
+}
+#cloth{
+    display:flex;
+    gap: 3%;
+    margin-left: 45%;
+}
+.top{
+    margin-top: -0.01%;
+}
+.images{
+    display: flex;
+    margin-left: 5%;
+    gap: 2%;
+}
+.images img{
+    background-color:rgb(255, 251, 251);
+}
+button{
+    background-color: palevioletred;
+    color: white;
+    padding: 2%;
+    padding-left: 6%;
+    padding-right: 6%;
+    border: none;
+    text-align: center;
+    margin-left: 35%;
+    margin-bottom: 5%;
+}
+.displays{
+    display: flex;
+}
+#imag{
+   height: 500%; 
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    gap: 8%;
+}
+.foot{
+    display: flex;
+;
+}
+.foot img{
+height: 42%;
+width: 8%;
+}
+.footers{
+    display: flex;
+    gap: 62%;
+}
+#button{
+    background-color: transparent;
+    border: 2px solid black;
+    color:black;
+    
+}
