@@ -17,9 +17,12 @@ body{
     
     
 }
+.contains{
+    background-color: rgb(107, 67, 172);  
+}
 .container{
     display: flex;
-    background-color: rgb(107, 67, 172);
+    /* background-color: rgb(107, 67, 172); */
     
 }
 #p{
